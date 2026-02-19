@@ -5,9 +5,7 @@ Soy un Desarrollador Web apasionado por crear soluciones completas tanto en fron
 
 Mi objetivo es crecer como Desarrollador Full Stack, diseñando experiencias de usuario sólidas y lógica del lado del servidor eficiente para construir aplicaciones escalables.
 
-🎓 Actualmente aprendiendo: Node.js y MongoDB
-
-⚡ Dato curioso: Soy una persona divertida, pero tranquila
+🎓 Actualmente aprendiendo: C#
 
 ## 🛠️ Stack Tecnológico
 
